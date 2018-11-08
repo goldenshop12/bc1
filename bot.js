@@ -273,7 +273,7 @@ client.on('message', message => {
       message.channel.sendMessage(`**✅   ${argresult}**`)
   } else 
   if (message.content.startsWith(adminprefix + 'st')) {
-    client.user.setGame(");
+    client.user.setGame(https://www.twitch.tv/videos/332799509");
       message.channel.sendMessage(`**✅   ${argresult}**`)
   }
   });
