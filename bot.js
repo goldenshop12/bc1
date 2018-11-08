@@ -264,7 +264,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Deniz Server`,"https://www.twitch.tv/")
+client.user.setGame(`Deniz Server`,"https://www.twitch.tv/abo__reja")
 client.user.setStatus("dnd")
 });
 
