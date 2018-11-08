@@ -273,7 +273,7 @@ client.on('message', message => {
       message.channel.sendMessage(`**✅   ${argresult}**`)
   } else 
   if (message.content.startsWith(adminprefix + 'st')) {
-    client.user.setGame(argresult, "https://www.twitch.tv/حب بلا حدود");
+    client.user.setGame(");
       message.channel.sendMessage(`**✅   ${argresult}**`)
   }
   });
